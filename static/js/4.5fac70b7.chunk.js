@@ -1,0 +1,2 @@
+(this["webpackJsonpweb-archive"]=this["webpackJsonpweb-archive"]||[]).push([[4],{49:function(e,t,n){"use strict";n.r(t);var r=n(0),i=n.n(r),c=n(8),o=n(16);t.default=Object(c.b)((function(e){return{}}),(function(e){return{}}))((function(e){return i.a.createElement("div",null,i.a.createElement("p",null,"Hello, This is Home!"),i.a.createElement(o.b,{to:"/profile"},"Go to Profile"))}))}}]);
+//# sourceMappingURL=4.5fac70b7.chunk.js.map

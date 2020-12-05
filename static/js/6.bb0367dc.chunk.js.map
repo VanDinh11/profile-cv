@@ -1,0 +1,1 @@
+{"version":3,"sources":["pages/setting/Setting.js"],"names":["Setting"],"mappings":"iHAAA,2BAIeA,UAFC,kBAAM","file":"static/js/6.bb0367dc.chunk.js","sourcesContent":["import React from 'react';\r\n\r\nconst Setting = () => <div>Setting page</div>\r\n\r\nexport default Setting;"],"sourceRoot":""}

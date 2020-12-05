@@ -1,0 +1,2 @@
+(this["webpackJsonpweb-archive"]=this["webpackJsonpweb-archive"]||[]).push([[5],{50:function(e,t,a){"use strict";a.r(t);var n=a(0),c=a.n(n),l=a(16);t.default=function(){return c.a.createElement("div",{className:"WRAP_PROFILE"},c.a.createElement("div",null,c.a.createElement("p",null,"Hello World!"),c.a.createElement(l.b,{to:"/"},"Back to Home")))}}}]);
+//# sourceMappingURL=5.0bd3f328.chunk.js.map

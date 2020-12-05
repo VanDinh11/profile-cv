@@ -1,0 +1,2 @@
+(this["webpackJsonpweb-archive"]=this["webpackJsonpweb-archive"]||[]).push([[6],{51:function(e,t,n){"use strict";n.r(t);var a=n(0),i=n.n(a);t.default=function(){return i.a.createElement("div",null,"Setting page")}}}]);
+//# sourceMappingURL=6.bb0367dc.chunk.js.map
